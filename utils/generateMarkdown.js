@@ -25,14 +25,14 @@ function generateMarkdown(data) {
   ![github license](https://img.shields.io/badge/license-${data.license}-blue)
 
   ## Contributing
-  ${data.contributing}
+  ${data.contribute}
 
   ## Tests
   ${data.tests}
   
   ## Questions
   For any additional questions please contact me here:
-  Github: ${data.questions1}
+  Github: http://github.com/${data.questions1}
   Email: ${data.questions2}
 
 `;
