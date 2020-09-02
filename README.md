@@ -3,6 +3,8 @@
 
   ## Description
   This application is run fully in Node.js using the Inquirer Dependancy and takes in user input from prompts and creates a well organized and functional Readme file for the user's repo. This readme is actually an example of what can be created only using the generator.
+  
+  ![Screen Shot 2020-09-01 at 5 18 57 PM](https://user-images.githubusercontent.com/66890142/91919293-4a9a1a80-ec7a-11ea-9767-86e360cb80f1.png)
 
   ## Table of Contents
 
