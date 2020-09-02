@@ -1,8 +1,8 @@
-# Sample README - Insta-Date
+# Good README Generator
   ![github license](https://img.shields.io/badge/license-MIT-blue)
 
   ## Description
-  Insta-date is an application for which a user can use buttons to generate a random entree recipe and a random cocktail recipe which they can follow to create the perfect random date night.
+  This application is run fully in Node.js using the Inquirer Dependancy and takes in user input from prompts and creates a well organized and functional Readme file for the user's repo. This readme is actually an example of what can be created only using the generator.
 
   ## Table of Contents
 
@@ -14,22 +14,23 @@
   * [Questions](#questions)
 
   ## Installation
-  The application is deployed on Github pages and can be accessed through the website or the main repo page.
+  With the index.js and generateMarkdown.js files along with the right modules the user should be able to run the application fully inside of Node.js.
 
   ## Usage
-  One button on the website generates a modal containing a random entree recipe while the other generates a cocktail recipe. These are found using the EntreeDB API and CocktailDB API.
+  A user can come to this generator and can create a well formatted and well made Readme file for their repos without much hassle.
 
   ## License
+  This is an example of a license badge that can be created for their readme using the prompts in the generator.
   ![github license](https://img.shields.io/badge/license-MIT-blue)
 
   ## Contributing
-  People can contribute by taking the code and adding more search parameters or even adding more API's.
+  People can contribute by adding new prompts and making the readme even more extensive. 
 
   ## Tests
-  The application can be tested using multiple search parameters from the API.
+  The generator can be tested in Node.js.
   
   ## Questions
   For any additional questions please contact me here:
-  Github: http://github.com/example
-  Email: example@gmail.com
+  Github: http://github.com/brianpraseuth
+  Email: brianpraseuth@gmail.com
 
