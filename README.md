@@ -1,8 +1,8 @@
-# Good README Generator
+# Sample README - Insta-Date
   ![github license](https://img.shields.io/badge/license-MIT-blue)
 
   ## Description
-  The application takes in user input and creates a README file with it.
+  Insta-date is an application for which a user can use buttons to generate a random entree recipe and a random cocktail recipe which they can follow to create the perfect random date night.
 
   ## Table of Contents
 
@@ -14,22 +14,22 @@
   * [Questions](#questions)
 
   ## Installation
-  The application is ran in Node.js using the Inquirer dependency. 
+  The application is deployed on Github pages and can be accessed through the website or the main repo page.
 
   ## Usage
-  The application takes in user input from prompts and organizes them in a well made README
+  One button on the website generates a modal containing a random entree recipe while the other generates a cocktail recipe. These are found using the EntreeDB API and CocktailDB API.
 
   ## License
   ![github license](https://img.shields.io/badge/license-MIT-blue)
 
   ## Contributing
-  People can contribute by adding the the prompts
+  People can contribute by taking the code and adding more search parameters or even adding more API's.
 
   ## Tests
-  By having the correct files and running the application in Node
+  The application can be tested using multiple search parameters from the API.
   
   ## Questions
   For any additional questions please contact me here:
-  Github: http://github.com/brianpraseuth
-  Email: brianpraseuth@gmail.com
+  Github: http://github.com/example
+  Email: example@gmail.com
 
