@@ -2,6 +2,7 @@
   ![github license](https://img.shields.io/badge/license-MIT-blue)
   
   Video: https://drive.google.com/file/d/1WpU4E_5zfC9F05r0IpXTe0fbE52e9_bB/view
+  Example README created with application: https://drive.google.com/file/d/13rFcEo1pmb666-m1hQvSLGjk93oCndJW/view?usp=sharing
 
   ## Description
   This application is run fully in Node.js using the Inquirer Dependancy and takes in user input from prompts and creates a well organized and functional Readme file for the user's repo. This readme is actually an example of what can be created only using the generator.
